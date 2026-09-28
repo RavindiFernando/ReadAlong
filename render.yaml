@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: readalong
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    envVars:
+      - key: ASSEMBLYAI_API_KEY
+        sync: false
+      - key: SEED_DEMO
+        value: "1"
+      - key: LLM_MODEL
+        value: qwen3.5-4b-32k-fast
+      - key: STT_MODEL
+        value: universal-3-6-pro

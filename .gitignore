@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets & local data (recordings of children stay on this machine)
+backend/.env
+backend/data/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+.DS_Store
+
+# Private hackathon prep (form copy, video script)
+SUBMISSION.md
