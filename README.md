@@ -4,6 +4,8 @@
 
 A child reads a story out loud. Words turn green as they're read correctly, Pip the owl steps in when they get stuck, and afterwards Pip *talks with them* about the story to check they understood it. Teachers and parents get a complete running record (words correct per minute, accuracy, every miscue, a recording of every word) without spending a minute of one-on-one time.
 
+Link: https://readalong-dwlz.onrender.com/
+
 ---
 
 ## The problem
